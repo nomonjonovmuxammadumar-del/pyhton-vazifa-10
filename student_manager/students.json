@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Valiyev",
+    "grades": [85, 90, 78]
+  },
+  {
+    "id": 2,
+    "name": "Zuhra Karimova",
+    "grades": [95, 98, 92]
+  },
+  {
+    "id": 3,
+    "name": "Olim Karimov",
+    "grades": [70, 65, 80]
+  }
+]
