@@ -36,3 +36,9 @@ def add_student(name):
 
 def get_all_students():
     return load_students()
+
+
+def search_student_by_name(name):
+    students = load_students()
+    query = name.strip().lower()
+    return [s for s in students if query in s["name"].lower()]
